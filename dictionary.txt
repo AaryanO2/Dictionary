@@ -1,0 +1,33 @@
+Dog: A domesticated mammal often kept as a pet or for work, known for its loyalty and companionship.
+Cat: A small carnivorous mammal kept as a pet, known for its independence and hunting abilities.
+Sun: The star at the center of our solar system, which provides light and heat to Earth.
+Moon: The natural satellite that orbits the Earth, reflecting the Sun's light to illuminate the night sky.
+Tree: A tall plant with a trunk and branches, usually producing leaves, flowers, and fruits.
+Water: A clear, colorless liquid essential for life, found in rivers, oceans, and rain.
+Fish: A cold-blooded aquatic animal with gills and fins, typically living in water.
+Book: A written or printed work consisting of pages bound together, containing information or stories.
+House: A building where people live, providing shelter and living space.
+Car: A motorized vehicle used for transportation on roads, typically with four wheels.
+Ball: A spherical object used in various sports and games, often bounced, thrown, or kicked.
+Food: Edible substances consumed by living organisms to sustain energy and growth.
+Chair: A piece of furniture designed for sitting, usually with a backrest and legs.
+Sky: The expanse above the Earth where the sun, moon, stars, and clouds are seen.
+Rain: Water droplets falling from the sky in liquid form, a common weather phenomenon.
+Bird: Warm-blooded vertebrate animals with feathers, beaks, and the ability to fly.
+Sunset: The daily event when the sun disappears below the horizon, creating colorful skies.
+Moonlight: The light produced by the moon, often providing a gentle glow during the night.
+Ocean: A vast body of saltwater covering a large part of the Earth's surface.
+Fire: The result of combustion, producing heat, light, and often flames.
+Star: Luminous celestial objects composed of hot gases, visible from Earth at night.
+Earth: The third planet from the sun and the only known planet to support life.
+Air: The invisible mixture of gases surrounding the Earth, essential for breathing.
+Plant: Multicellular organisms that usually have green leaves and use sunlight to make food through photosynthesis.
+Rainbow: A meteorological phenomenon featuring a spectrum of colors in the sky, caused by sunlight refracting through raindrops.
+Snow: Frozen precipitation in the form of ice crystals that fall from the sky in colder temperatures.
+River: A natural flowing watercourse, typically larger than a stream, that often empties into a larger body of water.
+Mountain: A high landform rising prominently above its surroundings, often with steep slopes.
+Wind: The movement of air caused by differences in air pressure, often felt as a breeze.
+Cloud: A visible mass of water droplets or ice crystals suspended in the atmosphere.Dog:  A domesticated mammal often kept as a pet or for work, known for its loyalty and companionship.
+Aaryan: Aspiring coder crafting C++ solutions, balancing data structures, and building meaningful programs with precision.
+HelloWorld: My 1st project ;-)
+YOYO: Fun toy to play with
